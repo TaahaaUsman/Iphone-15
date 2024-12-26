@@ -61,7 +61,17 @@
 
 <h2>Setup Instructions</h2>
 <ol>
-<li>Clone the repository:
+<li>Clone the repository:</li>
+
 ```bash
 git clone [https://github.com/your-username/iphone15-clone.git](https://github.com/your-username/iphone15-clone.git)
+```
+```
 cd iphone15-clone
+```
+```
+npm install
+```
+```
+npm run dev
+```
